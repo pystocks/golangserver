@@ -1,5 +1,5 @@
 
-lang Web Server
+Golang Web Server
 ----
 This GoLang web server can be used to get familiar with GO in general or if you need a test application for learning to deploy on cloud infrastructure and/or kubernetes. 
 
